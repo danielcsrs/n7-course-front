@@ -1,4 +1,4 @@
-# N7 Course FRONT-END - ReactJS
+# N7 Course FRONT - ReactJS
 
 The front-end of app training school.
 
